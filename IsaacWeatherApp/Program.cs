@@ -1,0 +1,3 @@
+﻿using IsaacWeatherApp;
+
+UserInterface.Run();
